@@ -1,4 +1,4 @@
-### Bonjour
+### こんにちは
 
 - 🔭 I’m currently working on PHP & Laravel
 - 🌱 I’m currently learning ReactJS
