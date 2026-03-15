@@ -1,9 +1,6 @@
 ### こんにちは
-
-- 🔭 I’m currently working on: PHP & Laravel
-- 🌱 I’m currently learning: ReactJS
-- 💬 Ask me about: PCMR
-- 📫 How to reach me: by a summoning jutsu
-- 😄 Pronouns: Apache/Helicopter
-- ⚡ Fun fact: If you want to go then you go to hill and go down
-- ❤️ Seb is the most down to earth person
+- 🔭 Currently building: Web applications with PHP, Laravel, and Vue.js  
+- 🌱 Learning more about: Scalable backend architecture and cloud deployment  
+- 💬 Ask me about: Laravel, JavaScript, MySQL, and LAMP stack  
+- ⚙️ Tech stack: PHP • Laravel • Vue.js • JavaScript • MySQL • AWS  
+- 🌐 Portfolio: https://www.eyefind.in
