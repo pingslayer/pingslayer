@@ -1,30 +1,41 @@
 ### こんにちは
 
-<h1 align="center">Hi, I'm Ronald</h1>
+<h1 align="center">Ronald</h1>
 
 <p align="center">
-  Full Stack Developer focused on building scalable and maintainable web applications
+  Full Stack Developer
 </p>
 
 ---
 
-### About Me
-- Currently developing web applications using PHP, Laravel, and Vue.js  
-- Exploring scalable backend systems and cloud infrastructure  
-- Strong foundation in Laravel, JavaScript, MySQL, and LAMP stack  
+### Profile
+I build web applications that are reliable, scalable, and efficient.  
+Focused on solving problems with clear and maintainable systems.
 
 ---
 
-### Tech Stack
-**Backend:** PHP, Laravel  
-**Frontend:** Vue.js, JavaScript  
-**Database:** MySQL  
-**Cloud & Tools:** AWS  
+### Work
+- PHP, Laravel, Vue.js  
+- Backend systems and API design  
+- Database architecture and optimization  
 
 ---
 
-### Work Philosophy
-I focus on writing clean, maintainable code and designing systems that scale efficiently.
+### Focus
+- Scalable backend architecture  
+- Cloud infrastructure and deployment  
+
+---
+
+### Stack
+PHP • Laravel • Vue.js • JavaScript • MySQL • AWS
+
+---
+
+### Philosophy
+Keep it simple.  
+Make it work.  
+Make it last.
 
 ---
 
